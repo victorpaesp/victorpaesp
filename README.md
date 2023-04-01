@@ -1,8 +1,8 @@
-![Banner](https://github.com/victorpaesp/victorpaesp/blob/main/Make%20your%20README%20(1).png)
-
 <img src="https://komarev.com/ghpvc/?username=victorpaesp&style=flat-square&color=6cd63e">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer)](https://git.io/typing-svg)
+![Banner](https://github.com/victorpaesp/victorpaesp/blob/main/Make%20your%20README%20(1).png)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer)](https://git.io/typing-svg) -->
 
 ## 👨‍💻 Sobre mim
 
